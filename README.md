@@ -2,9 +2,9 @@
 
 ## Integrantes del proyecto
 - David
-- Maria del Mar
-- Jose
-- Victor
+- Mª del Mar
+- José
+- Víctor
 
 ## Objetivos del proyecto
 - Diferenciar entre digitalización en planta y negocio.
