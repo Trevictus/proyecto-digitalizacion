@@ -28,7 +28,7 @@ garantiza la identificación precisa de cada prenda, minimizando errores de clas
 necesidades específicas de cada lavandería, optimizando la eficiencia y la productividad.
 
 
-PTE de copiar último enlace
+**VER SI SE METE ÓRRDENES DE SERVICIO, ÚLTIMO ENLACE**
 
 Enlaces de interés:
 
