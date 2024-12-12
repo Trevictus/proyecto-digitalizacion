@@ -31,9 +31,13 @@ necesidades específicas de cada lavandería, optimizando la eficiencia y la pro
 PTE de copiar último enlace
 
 Enlaces de interés:
+
 https://canoproservis.com/las-ultimas-innovaciones-en-maquinaria-de-lavanderia-industrial/
+
 https://www.lavadotextiles.es/avances-tecnologicos-en-lavanderias-industriales/
+
 https://www.cio.com/article/2112295/girbau-automatiza-la-separacion-y-clasificacion-de-la-ropa-sucia-para-lavanderias.html
+
 https://getlavado.com/ai/
 
 
