@@ -1,9 +1,9 @@
 # Proyecto digitalización - 1DAWB2425
 
 ## Integrantes del proyecto
-- David
-- José Antonio
-- Víctor
+- David Benavides Foncubierta
+- José Antonio Diaz Busati
+- Víctor Gómez Tejada
 
 ## Objetivos del proyecto
 - Diferenciar entre digitalización en planta y negocio.
