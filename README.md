@@ -2,7 +2,6 @@
 
 ## Integrantes del proyecto
 - David
-- Mª del Mar
 - José
 - Víctor
 
