@@ -23,7 +23,7 @@ Analizando los patrones de comportamiento de los clientes la IA es capaz de adap
 
 ### Monitoreo en Tiempo Real y Control Remoto:
 
-Los sistemas de IA permiten el monitoreo remoto y en tiempo real de las operaciones, proporcionando datos e insights valiosos, facilitando la toma de decisiones informadas, mejoraando la capacidad de respuesta ante problemas y optimizando la eficiencia operativa.
+Los sistemas de IA permiten el monitoreo remoto y en tiempo real de las operaciones, proporcionando datos e insights valiosos, facilitando la toma de decisiones informadas, mejorando la capacidad de respuesta ante problemas y optimizando la eficiencia operativa.
 
 ## Optimización de Recursos:
 
