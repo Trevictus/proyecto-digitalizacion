@@ -2,7 +2,7 @@
 
 ## Integrantes del proyecto
 - David
-- José
+- José Antonio
 - Víctor
 
 ## Objetivos del proyecto
